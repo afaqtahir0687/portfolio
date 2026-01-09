@@ -17,7 +17,6 @@
     <body class="d-flex flex-column h-100">
         <main class="flex-shrink-0">
             @include('layouts.navbar')
-            @include('layouts.header')
             @yield('content')
         </main>
        @include('layouts.footer')

@@ -10,4 +10,19 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    public function resume()
+    {
+        return view('resume');
+    }
+
+    public function projects()
+    {
+        return view('projects');
+    }
+
+    public function contact()
+    {
+        return view('contacts');
+    }
 }
