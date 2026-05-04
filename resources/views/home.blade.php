@@ -319,12 +319,12 @@
                 <div class="col-xxl-8">
                     <div class="text-center my-5">
                         <h2 class="display-5 fw-bolder"><span class="text-gradient d-inline">About Me</span></h2>
-                        <p class="lead fw-light mb-4">I am a Laravel developer with 2 years of experience, I have honed my skills in HTML, CSS, Bootstrap, PHP, Laravel, Jquery, Ajax, and database management. I have experience in developing web applications that are responsive and user-friendly. My expertise in back-end development ensures that the applications I develop are visually appealing and easy to navigate.</p>
-                        <p class="text-muted">In my work, I have demonstrated proficiency in developing dynamic web applications using Laravel's powerful features. I have experience in designing and implementing database schemas, managing database migrations, and querying databases using Laravel's ORM. I am a fast learner and always seek to expand my skill set. Overall, I am a committed and detail-oriented Laravel developer with a strong passion for developing high-quality web applications.</p>
+                        <p class="lead fw-light mb-4">I am a passionate and results-driven PHP/Laravel Developer with over 2 years of professional experience building dynamic, secure, and scalable web applications. My technical expertise spans the full development lifecycle, from designing robust back-end architectures with Laravel and SQL databases, to crafting responsive, user-friendly front-end interfaces using modern web technologies.</p>
+                        <p class="text-muted">In addition to traditional web development, I am an AI Prompt Engineer, leveraging artificial intelligence to streamline workflows and solve complex problems efficiently. I have demonstrated proficiency in designing elegant database schemas, optimizing RESTful APIs, and utilizing Laravel's powerful ORM. I am a continuous learner, actively expanding my skill set in modern frameworks like React and Vue, and I remain dedicated to delivering high-quality, user-centric software solutions that drive real business value.</p>
                         <div class="d-flex justify-content-center fs-2 gap-4">
-                            <a class="text-gradient" href="#!"><i class="bi bi-twitter"></i></a>
-                            <a class="text-gradient" href="#!"><i class="bi bi-linkedin"></i></a>
-                            <a class="text-gradient" href="#!"><i class="bi bi-github"></i></a>
+                            <a class="text-gradient" href="https://wa.me/923017730687?text=Hello%20Afaq%20Tahir" target="_blank"><i class="bi bi-whatsapp"></i></a>
+                            <a class="text-gradient" href="https://linkedin.com/in/afaq-tahir0687" target="_blank"><i class="bi bi-linkedin"></i></a>
+                            <a class="text-gradient" href="https://github.com/afaqtahir0687" target="_blank"><i class="bi bi-github"></i></a>
                         </div>
                     </div>
                 </div>
