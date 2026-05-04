@@ -27,7 +27,7 @@
                                         <div class="small text-muted">Lahore, Pakistan</div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>I have started my career in this company as a Sr Laravel Developer. Here i worked with the professionals having more than 5 years of experience. Here i worked on several professional projects which boost my confidence as a Laravel Developer.</div></div>
+                                <div class="col-lg-8"><div>As a Senior Laravel Developer, I lead the design and development of complex web applications. I collaborate closely with cross-functional teams to architect scalable back-end systems, optimize database performance, and mentor junior developers. My role involves delivering high-quality, secure solutions while maintaining robust coding standards.</div></div>
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                                         <div class="small text-muted">Lahore, Pakistan</div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>I have started my career in this company as a Junior laravel developer. Here i worked with the professionals having more than 5 years of experience. Here i worked on several professional projects which boost my confidence as a laravel developer.</div></div>
+                                <div class="col-lg-8"><div>Transitioned into a core developer role where I built and maintained dynamic, data-driven Laravel applications. I gained extensive experience in RESTful API integration, database migrations, and implementing clean MVC architecture. Working alongside seasoned professionals, I significantly enhanced my problem-solving skills and backend proficiency.</div></div>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                                         <div class="small text-muted">Lahore, Pakistan</div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>I have started my career in this company as a Internship laravel developer. Here i worked with the professionals having more than 5 years of experience. Here i worked on several professional projects which boost my confidence as a laravel developer</div></div>
+                                <div class="col-lg-8"><div>Began my professional journey by assisting in the development of internal web tools using PHP and Laravel. I learned foundational web development concepts, version control with Git, and database management. This hands-on experience solidified my passion for backend programming and set the stage for my career.</div></div>
                             </div>
                         </div>
                     </div>
@@ -79,12 +79,12 @@
                                             <div class="small text-muted">Multan</div>
                                         </div>
                                         <div class="fst-italic">
-                                            <div class="small text-muted">BA (Computer Science)</div>
+                                            <div class="small text-muted">Bachelor of Arts (Computer Science)</div>
                                             <div class="small text-muted">64%</div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>Graduated with a focus on Computer Science fundamentals and programming.</div></div>
+                                <div class="col-lg-8"><div>Acquired comprehensive knowledge in software engineering principles, algorithms, and advanced web technologies. Developed a strong foundation in problem-solving and full-stack application development.</div></div>
                             </div>
                         </div>
                     </div>
@@ -94,18 +94,18 @@
                             <div class="row align-items-center gx-5">
                                 <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                     <div class="bg-light p-4 rounded-4">
-                                        <div class="text-secondary fw-bolder mb-2">2022</div>
+                                        <div class="text-secondary fw-bolder mb-2">2019</div>
                                         <div class="mb-2">
                                             <div class="small fw-bolder">Govt Degree College</div>
                                             <div class="small text-muted">Mailsi</div>
                                         </div>
                                         <div class="fst-italic">
-                                            <div class="small text-muted">ICs</div>
+                                            <div class="small text-muted">Intermediate in Computer Science (ICS)</div>
                                             <div class="small text-muted">54%</div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>Completed Intermediate in Computer Science (ICs).</div></div>
+                                <div class="col-lg-8"><div>Focused on core programming concepts, database fundamentals, and higher mathematics, laying the groundwork for a specialized career in software development.</div></div>
                             </div>
                         </div>
                     </div>
@@ -115,18 +115,18 @@
                             <div class="row align-items-center gx-5">
                                 <div class="col text-center text-lg-start mb-4 mb-lg-0">
                                     <div class="bg-light p-4 rounded-4">
-                                        <div class="text-secondary fw-bolder mb-2">2022</div>
+                                        <div class="text-secondary fw-bolder mb-2">2016</div>
                                         <div class="mb-2">
                                             <div class="small fw-bolder">335W/B Govt High School</div>
                                             <div class="small text-muted">Mailsi</div>
                                         </div>
                                         <div class="fst-italic">
-                                            <div class="small text-muted">Matriculation</div>
+                                            <div class="small text-muted">Matriculation (Science)</div>
                                             <div class="small text-muted">75%</div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-8"><div>Completed Matriculation with Science subjects.</div></div>
+                                <div class="col-lg-8"><div>Graduated with an emphasis on science and mathematics, building strong analytical and logical reasoning skills.</div></div>
                             </div>
                         </div>
                     </div>
