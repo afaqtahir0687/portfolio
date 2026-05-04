@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use App\Mail\ContactFormMail;
+use App\Mail\ContactThankYouMail;
 
 class ContactController extends Controller
 {
@@ -19,9 +20,11 @@ class ContactController extends Controller
 
         $data = $request->all();
 
-        // Send email
-        // Note: Configure mail settings in .env
+        // Send email to admin
         Mail::to('afaqtahir0687@gmail.com')->send(new ContactFormMail($data));
+
+        // Send thank you email to visitor
+        Mail::to($data['email'])->send(new ContactThankYouMail($data));
 
         return back()->with('success', 'Thank you for contacting me! I will get back to you soon.');
     }
