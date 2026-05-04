@@ -13,7 +13,7 @@
                     <div class="col-lg-8 col-xl-6">
         
                         @if(session('success'))
-                            <div class="alert alert-success">
+                            <div class="alert alert-success" id="success-alert">
                                 {{ session('success') }}
                             </div>
                         @endif
@@ -52,11 +52,47 @@
                                 @enderror
                             </div>
                             <!-- Submit Button-->
-                            <div class="d-grid"><button class="btn btn-primary btn-lg" id="submitButton" type="submit">Submit</button></div>
+                            <div class="d-grid">
+                                <button class="btn btn-primary btn-lg" id="submitButton" type="submit">
+                                    <span id="buttonText">Submit</span>
+                                    <span id="buttonLoader" class="d-none">
+                                        <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+                                        Sending...
+                                    </span>
+                                </button>
+                            </div>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <script>
+        // Auto-hide success message after 2 seconds
+        document.addEventListener('DOMContentLoaded', function() {
+            const successAlert = document.getElementById('success-alert');
+            if (successAlert) {
+                setTimeout(function() {
+                    successAlert.style.transition = 'opacity 0.5s ease';
+                    successAlert.style.opacity = '0';
+                    setTimeout(function() {
+                        successAlert.remove();
+                    }, 500);
+                }, 2000);
+            }
+
+            // Handle form submission and show loader
+            const contactForm = document.getElementById('contactForm');
+            const submitButton = document.getElementById('submitButton');
+            const buttonText = document.getElementById('buttonText');
+            const buttonLoader = document.getElementById('buttonLoader');
+
+            contactForm.addEventListener('submit', function() {
+                submitButton.disabled = true;
+                buttonText.classList.add('d-none');
+                buttonLoader.classList.remove('d-none');
+            });
+        });
+    </script>
 @endsection
