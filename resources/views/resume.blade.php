@@ -145,14 +145,14 @@
                                     <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Professional Skills</span></h3>
                                 </div>
                                 <div class="row row-cols-1 row-cols-md-3 mb-4">
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">SEO/SEM Marketing</div></div>
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Statistical Analysis</div></div>
-                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Web Development</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Backend Development</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">RESTful API Design</div></div>
+                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Database Management</div></div>
                                 </div>
                                 <div class="row row-cols-1 row-cols-md-3">
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Network Security</div></div>
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Adobe Software Suite</div></div>
-                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">User Interface Design</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Frontend Development</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Object-Oriented Programming</div></div>
+                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Problem Solving</div></div>
                                 </div>
                             </div>
                             <!-- Languages list-->
@@ -162,19 +162,19 @@
                                     <h3 class="fw-bolder mb-0"><span class="text-gradient d-inline">Softwares & Languages</span></h3>
                                 </div>
                                 <div class="row row-cols-1 row-cols-md-3 mb-4">
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML</div></div>
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">CSS</div></div>
-                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">PHP & Laravel</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">MySQL / PostgreSQL</div></div>
+                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Git & GitHub</div></div>
                                 </div>
                                 <div class="row row-cols-1 row-cols-md-3 mb-4">
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">PHP</div></div>
-                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Laravel</div></div>
-                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Ajax</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">HTML, CSS & Bootstrap</div></div>
+                                    <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">JavaScript, Ajax & jQuery</div></div>
+                                    <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Postman API Testing</div></div>
                                 </div>
                                 <div class="row row-cols-1 row-cols-md-3 mb-4">
                                      <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">React Js (Beginner)</div></div>
                                      <div class="col mb-4 mb-md-0"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Vue Js (Beginner)</div></div>
-                                     <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">Flutter Authentication</div></div>
+                                     <div class="col"><div class="d-flex align-items-center bg-light rounded-4 p-3 h-100">AI Prompt Engineering</div></div>
                                 </div>
                             </div>
                         </div>
