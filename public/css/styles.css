@@ -11722,3 +11722,35 @@ html {
     left: -2vw;
   }
 }
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e30f3;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e21e80;
+}
+
+/* Reveal Animations */
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+}
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Text Selection */
+::selection {
+  background: #1e30f3;
+  color: #fff;
+}
