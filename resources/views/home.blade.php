@@ -12,6 +12,14 @@
                         <div class="fs-3 fw-light text-muted">I am a Laravel developer with 2 years of experience</div>
                         <h1 class="display-3 fw-bolder mb-5"><span class="text-gradient d-inline">Muhammad Afaq
                                 Tahir</span></h1>
+                        <div class="mb-4">
+                            <a href="tel:923017730687" class="text-decoration-none text-dark me-4 hover-primary">
+                                <i class="bi bi-telephone-fill text-primary me-2"></i>+92 301 7730687
+                            </a>
+                            <a href="mailto:afaqtahir0687@gmail.com" class="text-decoration-none text-dark hover-primary">
+                                <i class="bi bi-envelope-fill text-primary me-2"></i>afaqtahir0687@gmail.com
+                            </a>
+                        </div>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xxl-start mb-3">
                             <a class="btn btn-primary btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder"
                                 href="{{ route('resume') }}">Resume</a>
@@ -93,6 +101,10 @@
         .card:hover {
             transform: translateY(-10px);
             box-shadow: 0 1rem 3rem rgba(0,0,0,.175) !important;
+        }
+        .hover-primary:hover {
+            color: #1e30f3 !important;
+            transition: color 0.3s ease;
         }
     </style>
 @endsection
