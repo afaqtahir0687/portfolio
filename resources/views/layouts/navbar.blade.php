@@ -8,10 +8,18 @@
                 class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
-                <li class="nav-item"><a class="nav-link {{ request()->routeIs('home') ? 'active text-primary border-bottom border-primary' : '' }}" href="{{route('home')}}">Home</a></li>
-                <li class="nav-item"><a class="nav-link {{ request()->routeIs('resume') ? 'active text-primary border-bottom border-primary' : '' }}" href="{{route('resume')}}">Resume</a></li>
-                <li class="nav-item"><a class="nav-link {{ request()->routeIs('projects') ? 'active text-primary border-bottom border-primary' : '' }}" href="{{route('projects')}}">Projects</a></li>
-                <li class="nav-item"><a class="nav-link {{ request()->routeIs('contact') ? 'active text-primary border-bottom border-primary' : '' }}" href="{{route('contact')}}">Contact</a></li>
+                <li class="nav-item"><a
+                        class="nav-link {{ request()->routeIs('home') ? 'active text-primary border-bottom border-primary' : '' }}"
+                        href="{{route('home')}}">Home</a></li>
+                <li class="nav-item"><a
+                        class="nav-link {{ request()->routeIs('resume') ? 'active text-primary border-bottom border-primary' : '' }}"
+                        href="{{route('resume')}}">Resume</a></li>
+                <li class="nav-item"><a
+                        class="nav-link {{ request()->routeIs('projects') ? 'active text-primary border-bottom border-primary' : '' }}"
+                        href="{{route('projects')}}">Projects</a></li>
+                <li class="nav-item"><a
+                        class="nav-link {{ request()->routeIs('contact') ? 'active text-primary border-bottom border-primary' : '' }}"
+                        href="{{route('contact')}}">Contact</a></li>
             </ul>
         </div>
     </div>
@@ -24,6 +32,7 @@
         margin-left: 15px;
         border-bottom: 2px solid transparent;
     }
+
     .navbar-nav .nav-link:hover {
         color: #1e30f3 !important;
     }
